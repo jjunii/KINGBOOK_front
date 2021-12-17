@@ -1,4 +1,4 @@
-package com.example.myapplication.ui.home
+package com.example.kingbooktest.ui.home
 
 import android.content.Intent
 import android.os.Bundle

@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">kingbooktest</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_debate">Debate</string>
     <string name="title_mypage">Mypage</string>
     <string name="title_activity_book">BookActivity</string>
     <string name="tab_text_1">Comment</string>

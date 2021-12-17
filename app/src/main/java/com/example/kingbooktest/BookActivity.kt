@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
 import com.example.kingbooktest.R
-import com.example.myapplication.ui.main.SectionsPagerAdapter
+import com.example.kingbooktest.ui.main.SectionsPagerAdapter
 
 class BookActivity : AppCompatActivity() {
 
